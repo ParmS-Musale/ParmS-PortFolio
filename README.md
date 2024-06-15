@@ -1,6 +1,6 @@
 # Parm's Portfolio
 
-**[Visit To My PortFolio.](https://parms-portfolio.netlify.app/)**
+**[Visit My Live Portfolio Here!](https://parms-portfolio.netlify.app/)**
 
 
 Welcome to my portfolio! This project showcases my work as a software development engineer, focusing on database management, data structures, and algorithms. The portfolio highlights various projects, skills, and contact information.
