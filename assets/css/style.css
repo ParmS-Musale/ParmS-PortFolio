@@ -1,4 +1,3 @@
-
 :root {
   /* gradient */
 
@@ -1299,6 +1298,38 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .form-btn ion-icon { font-size: 18px; }
 
+}
+/* Contact Form */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: white;
+}
+
+form button {
+  padding: 10px;
+  border: none;
+  background-color: #007BFF;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+form button:disabled {
+  background-color: #cccccc;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  /* Add your responsive styles */
 }
 
 /* responsive larger than 768px screen */
