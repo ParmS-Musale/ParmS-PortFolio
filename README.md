@@ -36,7 +36,7 @@ Hi, I'm Parm! I'm passionate about database management, data structures, and alg
 
 ## Getting Started
 
-To get a local copy of this portfolio up and running, follow these steps:
+To get a local copy of this portfolio up and running, follow these steps: ///////////////////////
 
 ### Prerequisites
 
