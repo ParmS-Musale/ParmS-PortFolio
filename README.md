@@ -12,8 +12,6 @@ Welcome to my portfolio! This project showcases my work as a software developmen
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
