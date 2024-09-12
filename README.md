@@ -12,8 +12,6 @@ Welcome to my portfolio! This project showcases my work as a software developmen
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
@@ -36,8 +34,6 @@ Hi, I'm Parm! I'm passionate about database management, data structures, and alg
 
 ## Getting Started
 
-To get a local copy of this portfolio up and running, follow these steps: ///////////////////////
-
 ### Prerequisites
 
 - A web browser (Chrome, Firefox, Safari, etc.)
@@ -48,4 +44,5 @@ To get a local copy of this portfolio up and running, follow these steps: //////
    ```sh
    git clone https://github.com/your-username/portfolio.git
 
+  // Good Things Take Time..!!
   
