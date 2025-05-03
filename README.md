@@ -30,7 +30,7 @@ Hi, I'm Parm! I'm passionate about database management, data structures, and alg
 - HTML5
 - CSS3
 - JavaScript
-- Ionicons (for social media icons)
+- Ionicons (for social media icon)
 
 ## Getting Started
 
@@ -44,6 +44,4 @@ Hi, I'm Parm! I'm passionate about database management, data structures, and alg
    ```sh
    git clone https://github.com/your-username/portfolio.git
 
-  // Good Things Take Time..!!
-  // Great
-  // ....
+
