@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   const modalTitle = document.querySelector("[data-modal-title]");
   const modalText = document.querySelector("[data-modal-text]");
 
-  // Modal toggle function
+  // Modal toggle function in The Resume
   const testimonialsModalFunc = function () {
     modalContainer.classList.toggle("active");
     overlay.classList.toggle("active");
