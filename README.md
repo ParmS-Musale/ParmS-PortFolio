@@ -1,4 +1,4 @@
-# Parm's Portfolio
+# Parm's Portfolio 🧑‍💻
 
 **[Visit My Live Portfolio Here!](https://parms-portfolio.netlify.app/)**
 
